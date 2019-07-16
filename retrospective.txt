@@ -1,0 +1,7 @@
+Time Given: 40 minutes
+Time Left Over: 19 mins
+
+Retrospective:
+I gave myself more than what I estimated due to the complexity of the problem.  
+However, once I broke down the problem into simplier steps, I was able to see what I was missing simplier.
+I missed the array output and have to actually put it in array.
