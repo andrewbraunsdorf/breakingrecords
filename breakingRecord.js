@@ -40,7 +40,6 @@ function breakingRecords(scores) {
             maxCount++;
         }
     }
-
     return [minCount, maxCount];
 }
 
